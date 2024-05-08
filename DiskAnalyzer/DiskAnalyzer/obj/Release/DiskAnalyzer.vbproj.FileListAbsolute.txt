@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\bin\Release\DiskAnalyzer.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\bin\Release\DiskAnalyzer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\bin\Release\DiskAnalyzer.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\FileSystemWatcher.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\FileSystemWatcher.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\DiskAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\DiskAnalyzer.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\DiskAnalyzer.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DiskAnalyzer\DiskAnalyzer\obj\Release\DiskAnalyzer.pdb
